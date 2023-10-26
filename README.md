@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @legalais jules 
-- 👀 I’m interested in progrssing
+- 👀 I’m interested in progressing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on life
 - 📫 How to reach me jules.legalais@efrei.net
